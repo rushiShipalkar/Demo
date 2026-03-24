@@ -1,4 +1,4 @@
 # Demo
 this is my first repo
 <br>
-Author :Rushi shipalkar
+Author :Rushi shipalkar(wai technologes)
